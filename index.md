@@ -37,4 +37,5 @@
     <div id="studio-dpad-container" style="position:absolute; width:400px; bottom:5px; height:157px; overflow-y:hidden;">
     </div>
   </body>
+ </center>
 </html>
