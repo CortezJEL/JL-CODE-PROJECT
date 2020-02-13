@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>JL "Ender's Game" Galaga Nock-Off</title>
+    <center>
     <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
@@ -20,6 +21,7 @@
       }
     </style>
   </head>
+</center>
   <body class="web" style="margin:0; overflow:hidden; user-select:none; -webkit-user-select:none; -webkit-touch-callout:none; position:fixed; top:0; left:0; width:400px; height:565px;">
     <div id="sketch" class="web" style="position:absolute;"></div>
     <div id="soft-buttons" class="soft-buttons-none">
